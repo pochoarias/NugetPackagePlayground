@@ -1,0 +1,7 @@
+{
+  "solution": "NugetPackageExample.sln",
+  "mappings": {
+    "NugetPackageDemo": "NugetPackageDemo/NugetPackageDemo.csproj"
+  },
+  "removeProjects": false
+}
